@@ -33,6 +33,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**netwatch**](https://github.com/mimonimo/netwatch) | Real-time host monitoring — ping, TCP port check, uptime, instant alerts | ![Monitoring](https://img.shields.io/badge/-Monitoring-3fb950?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | [**dockerlens**](https://github.com/mimonimo/dockerlens) | Lightweight Docker dashboard — containers, logs, exec shell, stats | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | [**webterm**](https://github.com/mimonimo/webterm) | Web-based SSH & Telnet client — multi-tab, batch connect, jump host | ![SSH](https://img.shields.io/badge/-SSH-000?style=flat-square) ![xterm.js](https://img.shields.io/badge/-xterm.js-green?style=flat-square) |
 
