@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm WONJUN SEO 👋
+# Hey, I'm WONJUN SEO 👋😀
 
 **Building open-source AI tools, security utilities & DevOps dashboards**
 
